@@ -2,8 +2,8 @@
 #include <ESP8266WebServer.h>
 
 // WiFi Credentials
-const char* ssid = "Hackers24*7";
-const char* password = "#Beka07Keli#";
+const char* ssid = "your wifi name";
+const char* password = "your wifi password";
 
 // GPIO Pins
 #define RELAY1 5  // D1
